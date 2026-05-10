@@ -1,5 +1,7 @@
 # 🐺 DmiSpy - OSINT Framework
-**Developed by Wolf (Dmimaks)**
+**Developed by Wolf (Dmimaks) Discord volkchonek
+
+**
 
 Powerful tool for digital reconnaissance and target tracking.
 
